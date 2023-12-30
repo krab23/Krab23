@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krab23
-- 👀 I’m interested in financial market data analisys
-- 🌱 I’m currently learning C++ and CUDA
+- 👀 I’m interested in ..
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krab23
+- 👋 Hi, I’m @krab23
 - 👀 I’m interested in ..
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
